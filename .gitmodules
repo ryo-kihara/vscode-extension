@@ -1,0 +1,3 @@
+[submodule "vscode-translator"]
+	path = vscode-translator
+	url = https://github.com/ryo-kihara/vscode-translator.git
